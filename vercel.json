@@ -1,8 +1,0 @@
-{
-  "rewrites": [
-    {
-      "source": "/((?!www\\.protocolodrlapis\\.site).*)",
-      "destination": "/www.protocolodrlapis.site/$1"
-    }
-  ]
-}
